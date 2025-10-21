@@ -16,12 +16,13 @@ class QuickStart extends StatelessWidget {
             text1: '1.234',
             text2: 'Users'),
         CustomQuickStats(
-            icon: Icon(
-              Icons.star,
-              color: Colors.yellow,
-            ),
-            text1: '4.8',
-            text2: 'Rating'),
+          icon: Icon(
+            Icons.star,
+            color: Colors.yellow,
+          ),
+          text1: '4.8',
+          text2: 'Rating',
+        ),
         CustomQuickStats(
           icon: Icon(
             Icons.arrow_outward_rounded,
